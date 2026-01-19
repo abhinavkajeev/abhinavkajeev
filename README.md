@@ -1,9 +1,5 @@
 # Hi there, I'm Abhinav KA 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkajeev&show_icons=true&theme=radical&hide_border=true" alt="Abhinav's Stats" />
-</p>
-
 ### 👨‍💻 About Me
 I am a **Frontend Developer** transitioning into a Full-Stack Engineer, currently diving deep into **Backend technologies**. I love building scalable web applications and participating in hackathons to solve real-world problems.
 
@@ -48,5 +44,5 @@ I am a **Frontend Developer** transitioning into a Full-Stack Engineer, currentl
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/abhinav-ka-8a19502b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-ka-8a19502b2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinav-ka-8a19502b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
