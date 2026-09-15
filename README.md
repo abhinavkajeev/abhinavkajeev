@@ -5,7 +5,7 @@ I am a **Frontend Developer** transitioning into a Full-Stack Engineer, currentl
 
 - 🚀 **Recent Win:** Winner of **PEC Hacks 3.0**!
 - 🛠️ **Currently Learning:** Advanced Backend Architecture & System Design.
-- 🌐 **Portfolio:** [abhinav-ka.vercel.app](https://abhinav-ka.vercel.app/)
+- 🌐 **Portfolio:** [abhinavajeev.app](https://abhinav-ka.vercel.app/)
 - 📬 **Reach me at:** abhinavajeev@gmail.com
 
 ---
